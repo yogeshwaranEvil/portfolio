@@ -53,7 +53,7 @@ The portfolio is designed with a cyberpunk aesthetic, featuring neon gradients, 
 
 ## Contact
 I’m excited to connect for collaborations, opportunities, or feedback! Reach out via:
-- **Email**: [yogeshwaran.r2022lese@sece.ac.in](mailto:yogeshwaran.r2022lcse@sece.ac.in)
+- **Email**: [yogeshwaran.r2022lcse@sece.ac.in](mailto:yogeshwaran.r2022lcse@sece.ac.in)
 - **GitHub**: [github.com/yogeshwaran](https://github.com/yogeshwaranEvil)
 
 Explore my projects, certifications, and tools, and let’s build something secure and innovative together!
